@@ -1,0 +1,169 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+
+.h1 {
+    text-align: center;
+    color: black;
+
+
+}
+
+
+
+
+
+#first {
+
+
+    background: url("img/background.avif");
+    width: 100%;
+    height: 45em;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: fixed;
+}
+
+
+
+
+
+
+
+
+.form {
+    width: 400px;
+    background: url("img/BF.webp");
+    height: 400px;
+    margin: 100px 450px;
+    border-radius: 20px;
+    box-shadow: 1px 1px 1px 2px gray;
+    opacity: 0.8;background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 20px;
+
+}
+
+
+
+.style {
+    height: 400px;
+    width: 400px;
+
+}
+
+
+.name {
+
+    align-items: center;
+    height: 25px;
+    width: 250px;
+    color: rgb(31, 33, 36);
+    border-radius: 50px;
+    font-size: 19px;
+    margin-top: 40px;
+    margin-left: 70px;
+    padding: 2px 7px;
+}
+
+
+
+
+
+
+
+
+
+.email {
+    align-items: center;
+
+    border-radius: 50px;
+    padding: 2px 7px;
+
+    margin-top: 30px;
+    margin-left: 70px;   color: rgb(31, 33, 36);
+    height: 25px;
+    font-size: 19px;
+    width: 250px;
+}
+
+
+
+.password {
+    align-items: center;
+
+    padding: 2px 7px;
+    font-size: 19px;
+    border-radius: 50px;
+    color: rgb(31, 33, 36);
+    margin-top: 30px;
+    margin-left: 70px;
+    height: 25px;
+    width: 250px;
+}
+
+
+
+.checkbox {
+    align-items: center;
+
+    padding: 2px 7px;
+    font-size: 19px;
+    border-radius: 50px;
+    margin-top: 20px;
+    margin-left: 70px;
+
+}
+
+#checkbox {
+    align-items: center;
+
+    padding: 2px 7px;
+
+    border-radius: 50px;
+    margin-top: 20px;
+
+    color: rgb(0, 0, 0);
+
+}
+
+
+.submit {
+    height: 35px;
+    width: 95px;
+    align-items: center;
+    padding: 2px 7px;
+    font-size: 19px;
+    border-radius: 50px;
+    margin-top: 40px;
+    margin-left: 240px;
+
+}
+
+
+
+
+.login {
+
+    font-size: 17px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.rotate {
+    text-decoration: none;
+  color: rgb(46, 6, 78);
+  background-color: rgba(121, 126, 123, 0.555);
+ 
+
+}
+
+.rotate:active {
+    text-decoration: none;
+    color: rgb(255, 0, 0);
+}

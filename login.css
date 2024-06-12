@@ -1,0 +1,102 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.login {
+  
+
+    background: url("img/background.avif");
+    width: 100%;
+    height: 45em;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: fixed;
+}
+
+.form {
+    width: 350px;
+    height: 200px;
+    border-radius: 20px;
+    padding: 20px;
+    background: url("img/BF.webp");
+    margin: 100px 450px;
+    box-shadow: 1px 1px 1px 2px gray;
+    opacity: 0.8;background-size: cover;
+    background-repeat: no-repeat;
+   
+
+}
+
+.email {
+
+    align-items: center;
+    height: 25px;
+    width: 250px;
+    color: gray;
+    border-radius: 50px;
+    font-size: 19px;
+    margin-top: 20px;
+    margin-left: 50px;
+    padding: 2px 7px;
+}
+
+
+.password {
+
+    align-items: center;
+    height: 25px;
+    width: 250px;
+    color: gray;
+
+    border-radius: 50px;
+    font-size: 19px;
+    margin-top: 20px;
+    margin-left: 50px;
+    padding: 2px 7px;
+}
+
+.submit {
+    height: 30px;
+    width: 85px;
+ 
+    padding: 2px 7px;
+    font-size: 19px;
+    border-radius: 50px;
+    margin-top: 0px;
+    margin-left: 90px;
+
+}
+
+.Back{
+    height: 30px;
+    width: 85px;
+    align-items: center;
+    padding: 2px 7px;
+    font-size: 19px;
+    border-radius: 50px;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.h1 {
+    text-align: center;
+
+}
+
+
+/* -------------------------------------------------------------------------------------- */
